@@ -5,7 +5,7 @@
 ### ELVUI
 <details>
   <summary>ELVUI-IMPORT</summary>
-```
+```js
 {
     ["actionbar"] = {
         ["bar1"] = {
