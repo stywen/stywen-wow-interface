@@ -1519,7 +1519,7 @@
   
 </details>
 
-#### Mythic Dungeons S1
+### Mythic Dungeons S1
 <details>
   <summary>WA-IMPORT</summary>
   
@@ -1537,7 +1537,7 @@
 ```
 </details>
 
-### Raid Vault of the incarnates
+# Raid Vault of the incarnates
 <details>
   <summary>WA-IMPORT</summary>
 
