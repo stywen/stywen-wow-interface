@@ -1,5 +1,5 @@
 # Warrior
-![UI-SCREENSHOT](ui.png)]
+![UI-SCREENSHOT](ui.png)
 
 ## UI
 ### ELVUI
