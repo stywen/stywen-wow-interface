@@ -5,7 +5,8 @@
 ### ELVUI
 <details>
   <summary>ELVUI-IMPORT</summary>
-```{
+```
+{
     ["actionbar"] = {
         ["bar1"] = {
             ["backdrop"] = true,
@@ -1438,8 +1439,8 @@
             },
         },
     },
-}::profile::minimal```
-
+}::profile::minimal
+```
 </details>
 
 ### Protection UI - WA
