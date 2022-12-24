@@ -1,5 +1,5 @@
 # Warrior
-![[Pasted image 20221224213424.png]]
+![UI-SCREENSHOT](ui.png)]
 
 ## UI
 ### ELVUI
